@@ -19,7 +19,7 @@ const galleryImages = [
   { id: 12, src: "/gallery/image-12.jpg", alt: "New solar water pump", caption: "" },
   { id: 13, src: "/gallery/image-13.jpg", alt: "New solar water pump", caption: "" },
   { id: 14, src: "/gallery/image-14.jpg", alt: "New solar water pump", caption: "" },
-  { id: 14, src: "/gallery/image-15.jpeg", alt: "New solar water pump", caption: "" },
+  { id: 15, src: "/gallery/image-15.jpeg", alt: "New solar water pump", caption: "" },
 ];
 
 export default function GalleryPage() {
