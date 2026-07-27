@@ -5,7 +5,6 @@ import Image from "next/image";
 
 // Placeholder data - replace the src paths with your actual image filenames
 const galleryImages = [
-  { id: 1, src: "/gallery/image-1.jpg", alt: "Sunset over the savanna", caption: "" },
   { id: 2, src: "/gallery/image-2.jpg", alt: "Local community market", caption: "" },
   { id: 3, src: "/gallery/image-3.jpg", alt: "Traditional village festival", caption: "" },
   { id: 4, src: "/gallery/image-4.jpg", alt: "Children at the village school", caption: "" },
