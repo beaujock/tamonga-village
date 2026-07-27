@@ -16,7 +16,7 @@ const navLinks = [
   { name: "Santé", path: "/health" },
   { name: "Education", path: "/education" },
   { name: "Gouvernance", path: "/governance" },
-  //{ name: "Amenities", path: "/amenities" },
+  { name: "Images", path: "/gallery" },
 ];
 
 export default function RootLayout({
