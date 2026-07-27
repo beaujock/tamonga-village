@@ -5,19 +5,19 @@ import Image from "next/image";
 
 // Placeholder data - replace the src paths with your actual image filenames
 const galleryImages = [
-  { id: 2, src: "/gallery/image-2.jpg", alt: "Local community market", caption: "" },
-  { id: 3, src: "/gallery/image-3.jpg", alt: "Traditional village festival", caption: "" },
-  { id: 4, src: "/gallery/image-4.jpg", alt: "Children at the village school", caption: "" },
-  { id: 5, src: "/gallery/image-5.jpg", alt: "New solar water pump", caption: "" },
-  { id: 6, src: "/gallery/image-6.jpg", alt: "Sunset over the savanna", caption: "" },
-  { id: 7, src: "/gallery/image-7.jpg", alt: "Local community market", caption: "" },
-  { id: 8, src: "/gallery/image-8.jpg", alt: "Traditional village festival", caption: "" },
-  { id: 9, src: "/gallery/image-9.jpg", alt: "Children at the village school", caption: "" },
-  { id: 10, src: "/gallery/image-10.jpg", alt: "New solar water pump", caption: "" },
-  { id: 11, src: "/gallery/image-11.jpg", alt: "New solar water pump", caption: "" },
-  { id: 12, src: "/gallery/image-12.jpg", alt: "New solar water pump", caption: "" },
-  { id: 13, src: "/gallery/image-13.jpg", alt: "New solar water pump", caption: "" },
-  { id: 14, src: "/gallery/image-14.jpg", alt: "New solar water pump", caption: "" },
+  { id: 2, src: "/gallery/image-2.JPG", alt: "Local community market", caption: "" },
+  { id: 3, src: "/gallery/image-3.JPG", alt: "Traditional village festival", caption: "" },
+  { id: 4, src: "/gallery/image-4.JPG", alt: "Children at the village school", caption: "" },
+  { id: 5, src: "/gallery/image-5.JPG", alt: "New solar water pump", caption: "" },
+  { id: 6, src: "/gallery/image-6.JPG", alt: "Sunset over the savanna", caption: "" },
+  { id: 7, src: "/gallery/image-7.JPG", alt: "Local community market", caption: "" },
+  { id: 8, src: "/gallery/image-8.JPG", alt: "Traditional village festival", caption: "" },
+  { id: 9, src: "/gallery/image-9.JPG", alt: "Children at the village school", caption: "" },
+  { id: 10, src: "/gallery/image-10.JPG", alt: "New solar water pump", caption: "" },
+  { id: 11, src: "/gallery/image-11.JPG", alt: "New solar water pump", caption: "" },
+  { id: 12, src: "/gallery/image-12.JPG", alt: "New solar water pump", caption: "" },
+  { id: 13, src: "/gallery/image-13.JPG", alt: "New solar water pump", caption: "" },
+  { id: 14, src: "/gallery/image-14.JPG", alt: "New solar water pump", caption: "" },
   { id: 15, src: "/gallery/image-15.jpeg", alt: "New solar water pump", caption: "" },
 ];
 
