@@ -97,7 +97,7 @@ export default function DirectionsPage() {
               
               <div className="mb-4 flex justify-between items-center px-2">
                 <h2 className="font-serif font-bold text-xl text-savanna-dark">
-                  {activeMap === "dapaong" ? "Dapaong to Tamonga" : "Mango to Tamonga"}
+                  {activeMap === "dapaong" ? "Partir de Dapaong" : "Partir de Mango"}
                 </h2>
 
               </div>
